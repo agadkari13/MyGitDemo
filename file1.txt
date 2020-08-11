@@ -1,5 +1,6 @@
 Hello world, this is my first First file.
 class MyClass{
+change1 made by user1
 // Changed by user 2
 
 	main(){
