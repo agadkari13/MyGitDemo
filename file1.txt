@@ -3,7 +3,7 @@ class MyClass{
 
 	main(){
 
-	SOP(Welcome to git !!!!}
+	system printlf(Welcome to git !!!!}
 
 	
 	}
