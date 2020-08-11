@@ -3,6 +3,7 @@ class MyClass{
 change1 made by user1
 // Changed by user 2
 
+void myMethod(){My method }
 	main(){
 
 	system printlf(Welcome to git !!!!}
